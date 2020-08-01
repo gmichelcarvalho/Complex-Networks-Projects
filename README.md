@@ -2,3 +2,7 @@
 My projects in the classes about Complex Networks and Dynamical processes.
 
 ![](Campinas.png)
+
+![](araraquara.png)
+
+![](Sãocarlos.png)
