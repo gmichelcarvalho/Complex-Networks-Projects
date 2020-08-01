@@ -1,4 +1,4 @@
 # Complex-Networks-Projects
-My projects about complex networks 
+My projects in the classes about Complex Networks and Dynamical processes.
 
 ![](Campinas.png)
